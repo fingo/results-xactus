@@ -1,2 +1,2 @@
 # results-xactus
-Automatycznie generowane repo z wynikami testów
+Automatically generated repository with tests results from `fingo/xactus` repository
